@@ -1,0 +1,22 @@
+{
+  "name": "@riim/interval",
+  "version": "1.0.0",
+  "description": "",
+  "type": "commonjs",
+  "main": "dist/interval.js",
+  "typings": "dist/interval.d.ts",
+  "scripts": {
+    "build": "rm -rf dist && tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Riim/interval.git"
+  },
+  "author": "Dmitry Vibe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Riim/interval/issues"
+  },
+  "homepage": "https://github.com/Riim/interval#readme"
+}
