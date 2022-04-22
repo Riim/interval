@@ -1,6 +1,6 @@
 {
   "name": "@riim/interval",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "",
   "type": "commonjs",
   "main": "dist/interval.js",
